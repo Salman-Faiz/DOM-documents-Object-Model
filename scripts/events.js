@@ -35,3 +35,9 @@ const makeOrangeBtn =document.getElementById('makeOrange');
 makeOrangeBtn.addEventListener('click',function makeOrangeFunction(){
     document.body.style.backgroundColor='orange';
 });
+
+// final option and we will use this option...
+// we will not use functionName in this segment
+document.getElementById('makeGoldenrod').addEventListener('click',function(){
+    document.body.style.backgroundColor='goldenrod';
+})
