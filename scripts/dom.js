@@ -24,5 +24,5 @@ mainContainer1.appendChild(section);
 const paragraph=document.getElementsByClassName('paragraph');
 paragraph.innerText='kkkkk jjjjj hhhhh';
 
-const sectionTitle =document.getElementsByClassName('firstSection');
-sectionTitle.setAttribute('sectionTitle','tooltip added by javascript');
+// const sectionTitle =document.getElementsByClassName('firstSection');
+// sectionTitle.setAttribute createAttribute('sectionTitle','tooltip added by javascript');
